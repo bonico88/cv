@@ -10,7 +10,9 @@
 
 Soy Ingeniero en Electrónica especializado en DevOps; con experiencia en el diseño, implementación y operación de plataformas cloud en entornos productivos, con foco en confiabilidad, seguridad y automatización.
 
-He liderado iniciativas de DevOps con responsabilidad end-to-end sobre la infraestructura y operación de plataformas productivas, incluyendo entornos containerizados, arquitecturas escalables y procesos de seguridad y compliance como SOC2. Suelo priorizar soluciones open source por su confiabilidad a largo plazo y tomar decisiones técnicas que pongan foco en eficiencia operativa y optimización de costos.
+He liderado iniciativas de DevOps con responsabilidad end-to-end sobre la infraestructura y operación de plataformas productivas, incluyendo entornos containerizados, arquitecturas escalables y procesos de seguridad y compliance como SOC2.
+
+Suelo priorizar soluciones open source por su confiabilidad a largo plazo y tomar decisiones técnicas que pongan foco en eficiencia operativa y optimización de costos.
 
 ## Experiencia Laboral
 

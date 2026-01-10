@@ -8,9 +8,11 @@
 
 ## About me
 
-I am an Electronics Engineer with a background in DevOps, with experience designing, implementing, and operating cloud platforms in production environments, focused on reliability, security, and automation.
+I am an Electronics Engineer specialized in DevOps, with experience designing, implementing, and operating cloud platforms in production environments, focused on reliability, security, and automation.
 
-I have led DevOps initiatives with end-to-end ownership of infrastructure and platform operations, including containerized environments, scalable architectures, and security and compliance processes such as SOC2. I generally favor open-source solutions for their long-term reliability and make technical decisions with cost and efficiency in mind.
+I have led DevOps initiatives with end-to-end ownership of infrastructure and platform operations, including containerized environments, scalable architectures, and security and compliance processes such as SOC2.
+
+I prioritize open-source solutions for their long-term reliability and make technical decisions with cost efficiency as a key consideration.
 
 ## Work Experience
 
